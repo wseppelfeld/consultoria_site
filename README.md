@@ -1,1 +1,1 @@
-Website in development, for a consultory in Citzenship and Visas.
+Website in development, for a consultory in Citizenship and Visas for Portugal.
